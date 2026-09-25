@@ -1,0 +1,1 @@
+Atualização do cartão Corregedoria: envie index.html e brasao-corregedoria.png para a RAIZ do repositório gledisonpm-lgtm.github.io no GitHub. Substitua o index.html antigo. Mantenha os dois arquivos lado a lado. Depois aguarde a publicação automática no GitHub Pages.
